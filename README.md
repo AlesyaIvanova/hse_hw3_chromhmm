@@ -23,3 +23,15 @@ H3K09me1 wgEncodeBroadHistoneNhekH3k9me1StdAlnRep2.bam
 H3K09me3 wgEncodeBroadHistoneNhekH3k09me3AlnRep2.bam 
 
 H4K20me1 wgEncodeBroadHistoneNhekH4k20me1StdAlnRep2.bam 
+
+# Картинки из выдачи ChromHMM
+
+![](images/emission_parameters.png)
+
+![](images/transition_parameters.png)
+
+![](images/fold_enrichment.png)
+
+![](images/fold_enrichment_refseqtss.png)
+
+![](images/fold_enrichment_refseqtes.png)
