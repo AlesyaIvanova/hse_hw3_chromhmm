@@ -35,3 +35,7 @@ H4K20me1 wgEncodeBroadHistoneNhekH4k20me1StdAlnRep2.bam
 ![](images/fold_enrichment_refseqtss.png)
 
 ![](images/fold_enrichment_refseqtes.png)
+
+# Картинки из UCSC GenomeBrowser
+
+![](images/ucsc_genome.png)
