@@ -39,3 +39,16 @@ H4K20me1 wgEncodeBroadHistoneNhekH4k20me1StdAlnRep2.bam
 # Картинки из UCSC GenomeBrowser
 
 ![](images/ucsc_genome.png)
+
+# Эпигенетические типы
+
+1. Open chromatin: наиболее выражен в H3K79me2 и H3K36me3, чаще попадает на участок RefSeqTES
+2. Open chromatin: наиболее выражен в H3K79me2, чаще попадает на участок RefSeqGene
+3. Open chromatin: наиболее выражен в H3K79me2, чаще попадает на участок RefSeqGene
+4. Intron: наиболее выражен в H3K04me2, H3K09ac, H3K27ac и H3K79me2, чаще попадает на участки RefSeqExon и RefSeqTSS2kb
+5. Enchancer: наиболее выражен в H3K27ac, чаще попадает на участок RefSeqTSS
+6. Active Promoter: наиболее выражен в H3K04me1, чаще попадает на участки RefSeqTES и laminB1lads
+7. Weak Promoter: наиболее выражен в H3K04me2, чаще попадает на участки CpGIsland, RefSeqExon и RefSeqTSS
+8. Weak Promoter: наиболее выражен в H3K27me3, чаще попадает на участки RefSeqTES и laminB1lads
+9. Repressed Heterochromatin: не выражен, чаще попадает на участок laminB1lads
+10. Repressed Heterochromatin: наиболее выражен в H3K09me3, чаще попадает на участок laminB1lads
